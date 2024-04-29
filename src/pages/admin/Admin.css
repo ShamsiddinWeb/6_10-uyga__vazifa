@@ -1,0 +1,24 @@
+
+.store.active {
+  background-color: black;
+  color: #FFF;
+}
+.store.active p {
+  color: #FFF;
+}
+.store.active .header{
+  background-color: black;
+}
+.store.active .header__list-link {
+  color: #FFF;
+}
+.store.active .darks {
+  background-color: #FFF;
+  color: black;
+}
+.store.active .header__btn:hover {
+  color: #FFF;
+}
+.store.active .products__list-item {
+  border: 1px solid #FFF;
+}
